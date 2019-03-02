@@ -1,0 +1,23 @@
+{
+  "name": "scotchy-site",
+  "version": "0.0.1",
+  "description": "A scotchy site built for a Gatsby Theme ",
+  "main": "gatsby-config.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.1.19",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "scotchy-theme": "*"
+  },
+  "peerdependencies": {
+    "gatsby": "^2.1.19",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}

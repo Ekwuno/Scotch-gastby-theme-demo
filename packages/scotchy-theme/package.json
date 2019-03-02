@@ -1,0 +1,23 @@
+{
+  "name": "scotchy-theme",
+  "version": "0.0.1",
+  "description": "A Scotchy gatsby theme",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.1.19",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.1.19",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^0.18.2",
+    "@mdx-js/tag": "^0.18.0",
+    "gatsby-mdx": "^0.4.0",
+    "gatsby-plugin-page-creator": "^2.0.8"
+  }
+}
