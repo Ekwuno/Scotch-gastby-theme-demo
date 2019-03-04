@@ -1,3 +1,3 @@
 module.exports = {
-    __experimentalTheme:['scotchy-theme']
+    __experimentalThemes:['scotchy-theme']
 };
