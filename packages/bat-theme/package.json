@@ -1,0 +1,19 @@
+{
+  "name": "bat-theme",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "scotchy-theme" :"*"
+  },
+  "devDependencies": {
+    "gatsby": "^2.1.19",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.1.19",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "license": "MIT"
+}

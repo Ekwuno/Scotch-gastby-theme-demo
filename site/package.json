@@ -14,7 +14,7 @@
     "gatsby": "^2.1.19",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "scotchy-theme": "*",
+    "bat-theme": "*",
     "update": "^0.7.4"
   },
   "peerdependencies": {

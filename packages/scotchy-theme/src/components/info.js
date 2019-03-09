@@ -1,11 +1,12 @@
 import React from 'react'
+import color from '../tokens/color';
 
  const Info = ({children}) =>{
     return(
     <div
         style = {{
             padding: "1rem",
-            backgroundColor: "blue"
+            backgroundColor: color.primary 
         }}
     >
         {children}
